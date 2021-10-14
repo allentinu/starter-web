@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+using the current standards for open source contribution
+
 ## Copyright
 
 2021 Allen
